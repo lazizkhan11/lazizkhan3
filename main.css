@@ -1,0 +1,21 @@
+.f {
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+    color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ll {}
+
+.j {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(213, 6, 245);
+    color: chartreuse;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
